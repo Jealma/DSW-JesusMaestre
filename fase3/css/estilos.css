@@ -1,19 +1,19 @@
-header{
-    background-color: #11052C;
 
-}
 
 h1{
     background-color: turquoise;
+    
 }
 
-nav{
-
-    background-color:#3D087B;
+    
+ul{
+    background-color: #24af6e;
 }
+    
+   
 
 section{
-    background-color: #F43B86;
+    background-color: #b6148d;
     grid-column: 1/4;
 
 }
@@ -21,6 +21,8 @@ section{
 aside{
     background-color: #FFE459;
     grid-column: 4/5;
+    margin-left: auto;
+
 
 }
 
@@ -33,3 +35,10 @@ main{
     grid-template-columns: 1fr 1fr 1fr 1fr ;
     
 }
+
+body{
+    font-family: sans-serif;
+}
+
+
+
