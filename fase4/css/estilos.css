@@ -1,0 +1,44 @@
+
+
+h1{
+    background-color: turquoise;
+    
+}
+
+    
+ul{
+    background-color: #24af6e;
+}
+    
+   
+
+section{
+    background-color: #b6148d;
+    grid-column: 1/4;
+
+}
+
+aside{
+    background-color: #FFE459;
+    grid-column: 4/5;
+    margin-left: auto;
+
+
+}
+
+footer{
+    background-color: #FFCCD2;
+
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    
+}
+
+body{
+    font-family: sans-serif;
+}
+
+
+
